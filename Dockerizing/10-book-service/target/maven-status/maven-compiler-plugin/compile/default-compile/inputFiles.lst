@@ -1,0 +1,8 @@
+D:\Dockerizing\10-book-service\src\main\java\br\com\erudio\configuration\OpenApiConfiguration.java
+D:\Dockerizing\10-book-service\src\main\java\br\com\erudio\Application.java
+D:\Dockerizing\10-book-service\src\main\java\br\com\erudio\controller\BookController.java
+D:\Dockerizing\10-book-service\src\main\java\br\com\erudio\proxy\CambioProxy.java
+D:\Dockerizing\10-book-service\src\main\java\br\com\erudio\model\Book.java
+D:\Dockerizing\10-book-service\src\main\java\br\com\erudio\repository\BookRepository.java
+D:\Dockerizing\10-book-service\src\main\java\br\com\erudio\controller\FooBarController.java
+D:\Dockerizing\10-book-service\src\main\java\br\com\erudio\response\Cambio.java
